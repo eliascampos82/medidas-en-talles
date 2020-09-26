@@ -2,8 +2,10 @@
 ingresar unas medidas t te da un talle
 #  talles
 basado en sus medidas definiremos sus talles
-El programa estara en el lenguaje de python creador del proyecto: Elias colaboreador: Joel_flores
-#  las medidas de los talles
+El programa estara en el lenguaje de python creador del proyecto: eliascampos82 . colaborador Joel_Flores  
+
+
+#  las medidas de los talles  
 PECHO
 PEXS_MIN = 82
 PEXS_MAX = 90
